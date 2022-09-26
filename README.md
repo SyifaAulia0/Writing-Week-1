@@ -177,4 +177,20 @@ CSS (Cascading Style Sheet)
     1. Visibility none : element menghilang
     2. Visibility hidden : konten masih ada, tetapi tidak terlihat
 
+Algoritma 
+- 
+- algoritma : langkah2 yg dibutuhkan untuk menyelesaikan suatu masalah
+- setiap orang punya algoritma nya masing2
+- jenis2 algoritma : deskriptif, pseudocode, flowchart
+
+Pseudocode 
+- 
+- pseudocode : menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
+
+Java Script
+- 
+- tipe data : string, number, array, Boolean, 
+- variable : tempat menampung sebuah data
+- null : punya variable dta, tetapi isinya kosong
+- undefined : ada yang error dalam pemrograman 
 
