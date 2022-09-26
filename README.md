@@ -164,5 +164,17 @@ CSS (Cascading Style Sheet)
     ```
 
 - Display 
-    
+    1. Display inline : kotak hanya sebesar konten aja
+    2. Display inline-block : mengatur lebar dan tingginya
+    3. Display flex : untuk membuat gambar menghilang
+
+-Position
+    1. Position static : pada tempatnya
+    2. Position relative : bisa diubah2 tempatnya
+    3. Position absolute  : bisa  berpindah mengikuti posisi induknya yang relative
+
+- Visibility
+    1. Visibility none : element menghilang
+    2. Visibility hidden : konten masih ada, tetapi tidak terlihat
+
 
