@@ -109,6 +109,40 @@ output
 CSS (Cascading Style Sheet)
 - 
 - CSS untuk memperindah tampilan html
-- 
+- Cara menggunakan CSS ada 3, yaitu :
+    1. Inline CSS
+    ```
+    //pada html
+    <h1 style="background-color: aqua">Halo Aku <span>Syifa</span></h1>
+    ```
+    Output
+    
+    ![Screenshot (2524)](https://user-images.githubusercontent.com/114098894/192273276-19bbaf87-09ce-478c-8aa4-ffab72fa272a.png)
+
+    2. Internal CSS
+    ```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title> 
+    </head>
+    <body>
+    <style>
+        h1 {
+         border: black 3px solid;
+        }
+    </style>
+    
+    <h1>Halo Saya Syifa</h1>
+    </body>
+   </html>
+    ```
+    Output
+    ![Screenshot (2527)](https://user-images.githubusercontent.com/114098894/192275070-17968d3f-7e50-4cd1-9da8-ad8b00e47125.png)
+
+    3. Eksternal CSS
 
 
