@@ -1,4 +1,4 @@
-👋 Hi, I’m @SyifaAulia0
+# **Tugas Writing Week 1** 
 
 <!---
 SyifaAulia0/SyifaAulia0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -106,7 +106,9 @@ output
 
 ![Screenshot (2522)](https://user-images.githubusercontent.com/114098894/192248569-8e65fd96-961a-456d-9764-b48459615c6a.png)
 
-
-
+CSS (Cascading Style Sheet)
+- 
+- CSS untuk memperindah tampilan html
+- 
 
 
