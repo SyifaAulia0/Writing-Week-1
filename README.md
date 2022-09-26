@@ -186,11 +186,35 @@ Algoritma
 Pseudocode 
 - 
 - pseudocode : menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
-
+- contoh pseudocode menentukan bilangan ganjil dan genap :
+   ```
+   Deklarasi : 
+        var bil.integer;
+    Deskripsi :
+        bil <- 10;
+        Read (bil)
+        if (bil%2==0) then
+            print"Bilangan Genap";
+            Else
+            print"Bilangan Ganjil";
+        End if
+    ```
+ 
 Java Script
 - 
-- tipe data : string, number, array, Boolean, 
+- tipe data : string, number, array, Boolean, null, undefined
+```js
+let myName = "Syifa"
+myName = 'Aulia'
+console.log(myName) //output = Aulia
+```
+```js
+let age = 20 //output = 20
+```
+
 - variable : tempat menampung sebuah data
-- null : punya variable dta, tetapi isinya kosong
-- undefined : ada yang error dalam pemrograman 
+    1. let
+    2. const
+    3. var
+
 
