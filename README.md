@@ -217,4 +217,63 @@ let age = 20 //output = 20
     2. const
     3. var
 
-
+Loop (Perulangan)
+- 
+- For
+    ```js
+    //for(start; stop; step;)
+    for (let i=1; i<= 10; i++){
+    console.log(i)
+    } //output : 12345678910
+    ```
+- If Condition 
+    ```js
+    if(i==6){
+        console.log (i "yes ketemu")
+    } else{
+    console.log(i)
+    } //output : 6 'yes ketemu'
+    ```
+- While
+    ```js
+    let i = 10
+    while (i <= 10) {
+        console.log(i)
+        i++
+    }
+    ```
+    ```js
+    //cari angka yang dapat dibagi dengan angka 2,3,4,5,6
+    i=1
+    let isKetemu = false
+    while(!isKetemu) {
+	if (i%2 == 0 && i%3==0 && i%4 == 0 && i%5 == 0 && i%6 == 0 ){
+		Console.log(i);
+		isKetemu=true
+    } i++
+    } //output : 60
+    ```
+- Do while
+    ```js
+    i = 1
+    do {
+        console.log(i)
+    i++
+    } while (i <= 10) //output : 12345678910
+    ```
+    ```js
+    //cari angka yang dapat dibagi dengan angka 2,3,4,5,6
+    do {
+        if (
+            i % 2 == 0 && 
+            i % 3 == 0 && 
+            i % 4 == 0 && 
+            i % 5 == 0 &&
+            i % 6 == 0 
+        ) {
+            console.log(i);
+            isKetemu = true
+        }
+        i++
+    } while (!isKetemu) //output : 60
+    ```
