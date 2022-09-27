@@ -277,3 +277,21 @@ Loop (Perulangan)
         i++
     } while (!isKetemu) //output : 60
     ```
+Function
+- 
+- Cara membuat function ada 3, yaitu :
+	1. function clasic 
+	   function myfunction(kondisi){ }
+	   ```js
+	   function greeting(name = "Syifa") {
+    		console.log(`hallo, apa kabar ${name}?`)
+  	   }
+  
+  	   greeting("Aulia") //output : hallo, apa kabar Aulia?
+  	   greeting("Afra") //output : hallo, apa kabar Afra?
+  	   greeting("Farhan") //output : hallo, apa kabar Farhan?
+  	   greeting() //output : hallo, apa kabar Syifa?
+	   ``` 
+	2. function variable -> let myFunction=function(){ }
+	3. arrow function -> let myFunction=function(){ }
+
